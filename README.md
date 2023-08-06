@@ -1,6 +1,13 @@
 # Philosophical_AI_ChatBot
 Sogang Univ, 2023_1st semester, PHI4061, Artificial Intelligence and Ethics Practice
+<br>
+
+## 실행 화면
+<br>
+
 ![execution](https://github.com/namkidong98/Philosophical_AI_ChatBot/assets/113520117/fdec0833-134a-48c5-9f9e-0d19bc06d4fd)
+
+
 ## 철학적 챗봇 '로욜라 정령' 프로젝트
 #### 프로젝트 기간: 2023.03 - 2023.06 (4개월)
 #### 활동 역할: 챗봇 관리 총담당, 철학적 시나리오 3개 제작, 철학적 명언 반환 기능 추가
@@ -8,6 +15,8 @@ Sogang Univ, 2023_1st semester, PHI4061, Artificial Intelligence and Ethics Prac
 1. 인공지능의 사고 가능성: 인공지능의 4가지 연구방식과 존설의 중국어방 논변에 의거한 대화 시나리오
 2. 인공지능과 노동: 마르크스의 이론에 근거한 노동 이해 및 로봇으로 인한 일자리 감소에 대한 대화 시나리오
 3. 빅데이터와 인공지능 편향: 빅데이터와 데이터 편향에 대한 기본 개념 및 한병철 교수의 비평에 관한 대화 시나리오
+
+<br>
 
 ## 프로젝트 세부 설명
 #### 챗봇 링크: https://pf.kakao.com/_Vvxikxj
